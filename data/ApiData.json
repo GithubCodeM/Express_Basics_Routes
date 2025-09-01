@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Spice Haven",
+    "category": "Continental",
+    "location": "Downtown",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Dragon Wok",
+    "category": "Chinese",
+    "location": "Main Street",
+    "rating": 4.2
+  }
+]
